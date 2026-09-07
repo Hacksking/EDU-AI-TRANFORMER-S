@@ -1,0 +1,2 @@
+# Markdown to Structured JSON Converter Pipeline
+# Built using Python 3.10+ Standard Library (Zero external runtime dependencies required)
